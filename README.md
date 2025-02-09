@@ -1,1 +1,3 @@
 # Calender
+
+This **C++ Calendar Program** generates and displays a **yearly calendar** for any given year. The program first prompts the user to **input a year** and then calculates the **starting day** of that year using a formula based on leap year rules. It dynamically adjusts **February's days** for leap years and correctly formats each month's output with aligned days of the week. The calendar is neatly displayed with proper spacing, making it easy to read. This project demonstrates the use of **arrays, loops, functions, and conditional statements** in C++ to generate a functional calendar.
